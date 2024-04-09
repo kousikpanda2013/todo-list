@@ -1,2 +1,15 @@
 # todo-list
-It is a simple Todo list with Vanilla JS
+A simple to-do list web application built with vanilla JavaScript, HTML, and CSS.
+
+## Features
+
+- Add new to-do items using the input box at the top.
+- Delete button to remove to-do items from the list.
+- Total number of tasks dynamically updates as items are added or checked off.
+- Minimalistic design for ease of use.
+
+## Installation
+
+1. Clone the repository:
+   git clone https://github.com/yourusername/simple-todo-list.git
+
