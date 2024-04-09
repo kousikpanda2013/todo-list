@@ -11,5 +11,5 @@ A simple to-do list web application built with vanilla JavaScript, HTML, and CSS
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/simple-todo-list.git
+   git clone git@github.com:kousikpanda2013/todo-list.git
 
